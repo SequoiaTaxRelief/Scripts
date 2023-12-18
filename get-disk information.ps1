@@ -1,4 +1,7 @@
 # Get all disks
+# custom script I wrote because I was having issue figuring out which disk was which because
+# windoiws uses 10 different ways to refer to them depending on where you are
+
 # Get all disks
 $disks = Get-Disk
 
